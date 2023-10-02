@@ -1,0 +1,16 @@
+.enableCheck{
+    text-decoration: line-through;
+    color: rgb(55, 200, 55);
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+    .input-prompt{
+        background-color: aqua;
+        width: 100%;
+        
+    }
+
+  }
